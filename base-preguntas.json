@@ -1,0 +1,242 @@
+[
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuál es el resultado de 3.5 + 2.8?",
+        "respuesta": "6.3",
+        "incorrecta1": "5.3",
+        "incorrecta2": "6.5",
+        "incorrecta3": "6.1"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuál es el valor de x en la ecuación 5x = 20?",
+        "respuesta": "4",
+        "incorrecta1": "5",
+        "incorrecta2": "3",
+        "incorrecta3": "6"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuál es el resultado de 15 ÷ 3?",
+        "respuesta": "5",
+        "incorrecta1": "3",
+        "incorrecta2": "4",
+        "incorrecta3": "6"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuánto es 7/8 + 3/8?",
+        "respuesta": "1.25",
+        "incorrecta1": "1.5",
+        "incorrecta2": "1",
+        "incorrecta3": "1.75"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuál es el resultado de (8 + 2) × 3?",
+        "respuesta": "30",
+        "incorrecta1": "24",
+        "incorrecta2": "26",
+        "incorrecta3": "28"
+    },
+    {
+        "categoria": "Lenguaje",
+        "pregunta": "¿Cuál es el sinónimo de 'feliz'?",
+        "respuesta": "Contento",
+        "incorrecta1": "Triste",
+        "incorrecta2": "Enojado",
+        "incorrecta3": "Aburrido"
+    },
+    {
+        "categoria": "Lenguaje",
+        "pregunta": "¿Cuál de las siguientes palabras es un adjetivo?",
+        "respuesta": "Hermoso",
+        "incorrecta1": "Caminar",
+        "incorrecta2": "Canción",
+        "incorrecta3": "Rápidamente"
+    },
+    {
+        "categoria": "Lenguaje",
+        "pregunta": "¿Cuál es la raíz de la palabra 'felicidad'?",
+        "respuesta": "Feliz",
+        "incorrecta1": "Felic",
+        "incorrecta2": "Felizidad",
+        "incorrecta3": "Happiness"
+    },
+    {
+        "categoria": "Lenguaje",
+        "pregunta": "¿Cuál es el antónimo de 'rápido'?",
+        "respuesta": "Lento",
+        "incorrecta1": "Ligero",
+        "incorrecta2": "Ágil",
+        "incorrecta3": "Veloz"
+    },
+    {
+        "categoria": "Lenguaje",
+        "pregunta": "¿Cuál es la palabra correcta para referirse a varias 'crisis'?",
+        "respuesta": "Crisis",
+        "incorrecta1": "Crisises",
+        "incorrecta2": "Crisi",
+        "incorrecta3": "Crisis's"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "¿Cuál es la unidad de medida de la fuerza en el Sistema Internacional?",
+        "respuesta": "Newton",
+        "incorrecta1": "Joule",
+        "incorrecta2": "Watt",
+        "incorrecta3": "Pascal"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "¿Qué ley de Newton se conoce como la ley de la inercia?",
+        "respuesta": "Primera ley de Newton",
+        "incorrecta1": "Segunda ley de Newton",
+        "incorrecta2": "Tercera ley de Newton",
+        "incorrecta3": "Ley de gravitación universal"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "¿Cuál de las siguientes es una unidad de energía?",
+        "respuesta": "Joule",
+        "incorrecta1": "Newton",
+        "incorrecta2": "Voltio",
+        "incorrecta3": "Amperio"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "¿Cuál es la velocidad de la luz en el vacío?",
+        "respuesta": "300,000 km/s",
+        "incorrecta1": "150,000 km/s",
+        "incorrecta2": "3,000 km/s",
+        "incorrecta3": "30,000 km/s"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "¿Cuál es el instrumento utilizado para medir la masa de un objeto?",
+        "respuesta": "Balanza",
+        "incorrecta1": "Calorímetro",
+        "incorrecta2": "Termómetro",
+        "incorrecta3": "Voltímetro"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el símbolo químico del oxígeno?",
+        "respuesta": "O",
+        "incorrecta1": "Ox",
+        "incorrecta2": "O₂",
+        "incorrecta3": "O₃"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué tipo de enlace se forma entre un metal y un no metal?",
+        "respuesta": "Iónico",
+        "incorrecta1": "Covalente",
+        "incorrecta2": "Metálico",
+        "incorrecta3": "Dativo"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el pH de una sustancia neutra como el agua pura?",
+        "respuesta": "7",
+        "incorrecta1": "0",
+        "incorrecta2": "1",
+        "incorrecta3": "14"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué es el número atómico?",
+        "respuesta": "La cantidad de protones en un átomo",
+        "incorrecta1": "La cantidad de neutrones en un átomo",
+        "incorrecta2": "La cantidad de electrones en un átomo",
+        "incorrecta3": "La masa total del átomo"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál de los siguientes elementos es un gas noble?",
+        "respuesta": "Neón",
+        "incorrecta1": "Oxígeno",
+        "incorrecta2": "Nitrógeno",
+        "incorrecta3": "Carbono"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Cuál es la unidad básica de la vida?",
+        "respuesta": "Célula",
+        "incorrecta1": "Tejido",
+        "incorrecta2": "Órgano",
+        "incorrecta3": "Sistema"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué proceso utilizan las plantas para convertir la luz solar en energía?",
+        "respuesta": "Fotosíntesis",
+        "incorrecta1": "Respiración",
+        "incorrecta2": "Transpiración",
+        "incorrecta3": "Fermentación"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Cuál de los siguientes organelos es conocido como la 'central energética' de la célula?",
+        "respuesta": "Mitocondria",
+        "incorrecta1": "Ribosoma",
+        "incorrecta2": "Lisososma",
+        "incorrecta3": "Cloroplasto"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué tipo de reproducción implica la fusión de gametos?",
+        "respuesta": "Reproducción sexual",
+        "incorrecta1": "Reproducción asexual",
+        "incorrecta2": "Reproducción vegetativa",
+        "incorrecta3": "Reproducción por esporas"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Cuál es la función principal del sistema inmunológico?",
+        "respuesta": "Defender al organismo de infecciones",
+        "incorrecta1": "Regular la temperatura corporal",
+        "incorrecta2": "Transportar oxígeno",
+        "incorrecta3": "Producir hormonas"
+    },
+    {
+        "categoria": "Ciencias Sociales",
+        "pregunta": "¿Cuál es la capital constitucional de Bolivia?",
+        "respuesta": "Sucre",
+        "incorrecta1": "La Paz",
+        "incorrecta2": "Cochabamba",
+        "incorrecta3": "Santa Cruz"
+    },
+    {
+        "categoria": "Ciencias Sociales",
+        "pregunta": "¿Qué lengua indígena es considerada la lengua oficial junto al español en Bolivia?",
+        "respuesta": "Quechua",
+        "incorrecta1": "Guaraní",
+        "incorrecta2": "Aymara",
+        "incorrecta3": "Mochica"
+    },
+    {
+        "categoria": "Ciencias Sociales",
+        "pregunta": "¿Cuál es el recurso natural más importante de Bolivia, conocido por ser uno de los mayores productores en el mundo?",
+        "respuesta": "Gas natural",
+        "incorrecta1": "Petróleo",
+        "incorrecta2": "Carbón",
+        "incorrecta3": "Minerales"
+    },
+    {
+        "categoria": "Ciencias Sociales",
+        "pregunta": "¿Qué evento importante tuvo lugar en Bolivia el 6 de agosto de 1825?",
+        "respuesta": "Independencia de Bolivia",
+        "incorrecta1": "Revolución Agraria",
+        "incorrecta2": "Fundación de La Paz",
+        "incorrecta3": "Guerra del Pacífico"
+    },
+    {
+        "categoria": "Ciencias Sociales",
+        "pregunta": "¿Cuál es el nombre de la famosa cadena montañosa que recorre Bolivia de norte a sur?",
+        "respuesta": "Los Andes",
+        "incorrecta1": "Sierra Madre",
+        "incorrecta2": "Himalaya",
+        "incorrecta3": "Apalaches"
+    }
+]
